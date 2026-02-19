@@ -45,4 +45,6 @@ LexManos' Install Video: https://youtu.be/8VEdtQLuLO0
 Forge Forums: https://forums.minecraftforge.net/
 Forge Discord: https://discord.minecraftforge.net/
 
+模组展示: 
+=========================
 ![1](https://github.com/error1688/aimbot--1.20.1-forge-/blob/main/2026-02-19_19.25.13.png)
