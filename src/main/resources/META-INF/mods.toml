@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="yourmod" # 这里必须和你的代码一致！
+version="2.0.0"
+displayName="Aim_Assist_Mod"
+displayTest="MATCH_VERSION"
+authors="禁漫454278-error168"
+description='''
+    智慧芯片，按y启动
+    '''
+
+[[dependencies.yourmod]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.yourmod]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
