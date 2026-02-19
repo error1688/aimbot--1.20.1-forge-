@@ -47,4 +47,7 @@ Forge Discord: https://discord.minecraftforge.net/
 
 模组展示: 
 =========================
-![1](https://github.com/error1688/aimbot--1.20.1-forge-/blob/main/2026-02-19_19.25.13.png)
+<img width="1708" height="960" alt="2026-02-19_19 25 13" src="https://github.com/user-attachments/assets/4195c83c-07a3-4e78-bdf8-47baf38b6b5f" />
+<img width="1708" height="960" alt="2026-02-19_19 25 16" src="https://github.com/user-attachments/assets/12f6b3c5-49d5-422c-b075-a7a0a9ae768f" />
+<img width="1708" height="960" alt="2026-02-19_19 25 19" src="https://github.com/user-attachments/assets/2d84a3fa-50eb-4c4d-99ba-2a0f4c5e821a" />
+
